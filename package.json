@@ -1,0 +1,14 @@
+{
+  "name": "myo404",
+  "version": "1.0.0",
+  "description": "Myo Armband app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manny404",
+  "license": "WTFPL",
+  "dependencies": {
+    "myo": "^2.1.1"
+  }
+}
